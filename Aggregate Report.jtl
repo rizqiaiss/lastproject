@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1709286149433,1116,HTTP Request,400,Bad Request,Thread Group 1-1,text,false,,799,323,1,1,https://thinking-tester-contact-list.herokuapp.com/Users,1116,0,824
+1709289519722,1095,HTTP Request,400,Bad Request,Thread Group 1-1,text,false,,799,323,1,1,https://thinking-tester-contact-list.herokuapp.com/Users,1095,0,814
